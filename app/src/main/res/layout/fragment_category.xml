@@ -5,7 +5,7 @@
     android:layout_height="300dp"
     android:layout_gravity="center"
     android:padding="8dp"
-    tools:context="com.example.android.studnews.Home.CategoryFragment">
+    tools:context=".Home.CategoryFragment">
 
         <android.support.v7.widget.RecyclerView
             android:id="@+id/category_frag_rv"

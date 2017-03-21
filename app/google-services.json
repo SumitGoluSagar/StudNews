@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724845768973",
+    "firebase_url": "https://swen-27724.firebaseio.com",
+    "project_id": "swen-27724",
+    "storage_bucket": "swen-27724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724845768973:android:70a8197ea966da15",
+        "android_client_info": {
+          "package_name": "org.mistu.android.studnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724845768973-k1kmnr0ad071d0amvv2omsevv68o75s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.mistu.android.studnews",
+            "certificate_hash": "20fbc37315193cab9e2396739721716f06860cd8"
+          }
+        },
+        {
+          "client_id": "724845768973-5tnrt0m6n11lhltfukjcjupv44tjede3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJnpFFGwHLomFXs0ajir8OAPkxXd8NRwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724845768973-5tnrt0m6n11lhltfukjcjupv44tjede3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

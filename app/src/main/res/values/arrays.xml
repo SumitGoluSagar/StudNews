@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Exams</item>
+        <item>Career</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Entertainment</item>
+        <item>Motivation</item>
+        <item>Schools</item>
+        <item>Colleges</item>
+        <item>Books</item>
+        <item>Technologies</item>
+        <item>Innovations</item>
+        <item>Achievements</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="icons">
+        <item>@drawable/exam_icon</item>
+        <item>@drawable/career_icon</item>
+        <item>@drawable/sports_icon</item>
+        <item>@drawable/health_icon</item>
+        <item>@drawable/entertainment_icon</item>
+        <item>@drawable/motivation_icon</item>
+        <item>@drawable/school_icon</item>
+        <item>@drawable/college_icon</item>
+        <item>@drawable/book_icon</item>
+        <item>@drawable/technology_icon</item>
+        <item>@drawable/innovation_icon</item>
+        <item>@drawable/achievement_icon</item>
+        <item>@drawable/others_icon</item>
+    </string-array>
+</resources>

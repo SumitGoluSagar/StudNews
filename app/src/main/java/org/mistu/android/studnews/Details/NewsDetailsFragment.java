@@ -88,7 +88,8 @@ public class NewsDetailsFragment extends Fragment implements View.OnClickListene
         Glide.with(inflater.getContext())
                 .load(imageUrl)
                 .fitCenter()
-                .crossFade()
+                .placeholder(R.drawable.bg_hori_light)
+                .animate(android.R.anim.fade_in)
                 .into(newsImage);
 
         headingTextView.setText(heading);

@@ -23,9 +23,8 @@
             android:id="@+id/news_thumbnail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@drawable/physical1"
+            android:src="@drawable/bg_hori_light"
             android:adjustViewBounds="true"
-            android:transitionName="newsImage"
             android:scaleType="centerCrop"
             />
 
